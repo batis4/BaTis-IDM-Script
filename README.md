@@ -12,4 +12,4 @@ Reverse Engineering that attends to delete all the register files inside IDM app
 
 #Note
 - There's no harm software inside that script or may hunt your data as it is open-source tool.
-- You have to do this every 30 days as IDM recently prevent us to give unlimited-life time.
+- You have to do this every 30 days as IDM recently prevents us to give unlimited-life time so this is the safest way.
